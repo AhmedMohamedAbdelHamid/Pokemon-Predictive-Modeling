@@ -34,6 +34,7 @@ While this project focuses on predictive modeling, the dataset can be conceptual
 This project uses a Pokémon dataset comprising information on over 800 Pokémon. The dataset contains attributes such as name, type(s), base stats, and generation. It provides a perfect sandbox for implementing and evaluating various predictive models.
 
 Source: Kaggle
+Link: https://www.kaggle.com/datasets/abcsds/pokemon
 
 Size: ~800 entries.
 
